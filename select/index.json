@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "あなたがあなたで",
+  "base_artist": "ラックライフ",
+  "createdAt": "2025-12-27T02:53:02.817010Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "あなたがあなたで",
+      "artist": "ラックライフ",
+      "has_synced": false,
+      "path": "select/pl_01_あなたがあなたで_ラックライフ.txt"
+    }
+  ]
+}
